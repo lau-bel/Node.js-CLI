@@ -9,11 +9,11 @@ I used other packages as : figlet, ora, chalk-rainbow, axios, validator, args.
 
 go to your terminal
 
-``` $ npm install Aloha ```
+``` $ npm install @lau-bel/Aloha ```
 
 ## H2 To use it :
 
-``` $ Aloha [insert your email] ```
+``` $ @lau-bel/Aloha [insert your email] ```
 
 
 ## H2 Result :
