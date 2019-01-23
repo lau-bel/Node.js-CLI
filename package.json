@@ -1,5 +1,5 @@
 {
-  "name": "Aloha",
+  "name": "@lau-bel/aloha",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -19,7 +19,8 @@
     "chalk-rainbow": "^1.0.0",
     "email-validator": "^2.0.4",
     "figlet": "^1.2.1",
-    "ora": "^3.0.0"
+    "ora": "^3.0.0",
+    "user": "0.0.0"
   },
   "bin": {
     "Aloha": "./index.js"
