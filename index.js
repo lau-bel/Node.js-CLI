@@ -10,7 +10,6 @@ const ora = require('ora');
 const figlet = require('figlet');
 const chalkRainbow = require('chalk-rainbow');
 
-// console.log (args);
 
 console.log(chalkRainbow(figlet.textSync('Aloha', {
     font: 'banner',
@@ -56,25 +55,3 @@ if (validator.validate(args) == true){
        const log = chalk.yellow("This is not a f* email");
        console.log(log);
       }
-
-
-// if (args.length > 3) {
-//   errorLog(`only one argument can be accepted`)
-//   usage()
-// }
-// };
-
- // if (validator.validate("test@email.com")) {
- //
- //  axios({
- //    method: 'get',
- //    url: url + args,
- //    headers: { 'User-Agent': 'node.js-cli' }, // this api needs this header set for the request
- //  }).then(res => {
- //    const breach = res.data
- //    const log = chalk.green(`${breach}`) // we use chalk to set the color green on successful response
- //    console.log(log)
- //  }).catch(err => {
- //    const log = chalk.red(err) // we set the color red here for errors.
- //    console.log(log)
- //  })
