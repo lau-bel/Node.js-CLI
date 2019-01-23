@@ -9,7 +9,7 @@ I used other packages as : figlet, ora, chalk-rainbow, axios, validator, args.
 
 go to your terminal
 
-``` $ npm install @lau-bel/Aloha ```
+``` $ npm install @lau-bel/aloha ```
 
 ## H2 To use it :
 
