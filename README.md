@@ -13,7 +13,7 @@ go to your terminal
 
 ## H2 To use it :
 
-``` $ @lau-bel/Aloha [insert your email] ```
+``` $ aloha [insert your email] ```
 
 
 ## H2 Result :
