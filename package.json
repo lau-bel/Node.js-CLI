@@ -1,6 +1,6 @@
 {
   "name": "@lau-bel/aloha",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
     "user": "0.0.0"
   },
   "bin": {
-    "Aloha": "./index.js"
+    "aloha": "./index.js"
   }
 }
