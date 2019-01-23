@@ -2,7 +2,7 @@
 
 The designing of this tool was an exercise for Becode.org. 
 The goal was to designing à CLI-tool using de [pwned API](https://haveibeenpwned.com/API/v2#BreachesForAccount) and stylish it with our own tastes. 
-I used other packages as : figlet, ora, chalk-rainbow.
+I used other packages as : figlet, ora, chalk-rainbow, axios, validator, args.
 
 
 ## H2 To install it :
