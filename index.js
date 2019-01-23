@@ -12,7 +12,7 @@ const chalkRainbow = require('chalk-rainbow');
 
 
 console.log(chalkRainbow(figlet.textSync('Aloha', {
-    font: 'banner',
+    font: 'Banner',
     horizontalLayout: 'default',
     verticalLayout: 'default'
 })));
